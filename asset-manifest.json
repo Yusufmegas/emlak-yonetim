@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/emlak-yonetim/static/css/main.730871e0.css",
+    "main.js": "/emlak-yonetim/static/js/main.420af888.js",
+    "index.html": "/emlak-yonetim/index.html",
+    "main.730871e0.css.map": "/emlak-yonetim/static/css/main.730871e0.css.map",
+    "main.420af888.js.map": "/emlak-yonetim/static/js/main.420af888.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.730871e0.css",
+    "static/js/main.420af888.js"
+  ]
+}
